@@ -23,7 +23,7 @@ O objetivo é aplicar **K-Means** (e variantes) para segmentar os pedidos, avali
 
 3. **Seleção de Features & Experimentos**
 
-   * Testes controlados variando subconjuntos de variáveis para medir impacto no *silhouette* e na **inércia** do K-Means ([medium.com][5]).
+   * Testes controlados variando subconjuntos de variáveis para medir impacto no *silhouette* e na **inércia** do K-Means
    * Uso dos métodos *Elbow* e *Silhouette* para escolher *k*.
 
 4. **Treino & Avaliação**
@@ -56,4 +56,3 @@ O objetivo é aplicar **K-Means** (e variantes) para segmentar os pedidos, avali
 [2]: https://github.com/faduzin/t-d-clusterization "GitHub - faduzin/t-d-clusterization"
 [3]: https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html?utm_source=chatgpt.com "KMeans — scikit-learn 1.6.1 documentation"
 [4]: https://github.com/ayushic2899/Brazilian-E-Commerce-Public-Dataset-by-Olist?utm_source=chatgpt.com "ayushic2899/Brazilian-E-Commerce-Public-Dataset-by-Olist - GitHub"
-[5]: https://medium.com/%40krgaurav45/customer-satisfaction-prediction-brazillian-e-commerce-public-dataset-5bb9ed841bf1?utm_source=chatgpt.com "Customer Satisfaction Prediction — Brazillian e-Commerce Public ..."
